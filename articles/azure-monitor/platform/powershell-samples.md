@@ -22,6 +22,6 @@ A tabela a seguir inclui links para exemplos de scripts do PowerShell para execu
 | | |
 |---|---|
 |**Criar workspace**||
-| [Criar um espaço de trabalho do Log Analytics](../scripts/powershell-sample-create-workspace.md) | Cria um espaço de trabalho Log Analytics no Azure Monitor.|
+| [Criar um workspace do Log Analytics](../scripts/powershell-sample-create-workspace.md) | Cria um workspace do Log Analytics no Azure Monitor.|
 | | |
 
